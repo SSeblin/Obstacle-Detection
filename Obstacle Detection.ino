@@ -11,7 +11,7 @@ int angle=0;
 int const trigPin = 11;
 int const echoPin = 12;
 
-//Define pin for buzzer
+//Define pin for led
 int const ledPin=7;
 
 void setup() {
